@@ -29,7 +29,7 @@ for index, row in data.iterrows():
 
     try:
         driver.find_element(By.ID, "login_button").click()
-        time.sleep(5)
+        time.sleep(2)
     except:
         print("Login failed......")
         time.sleep(5)

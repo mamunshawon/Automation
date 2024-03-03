@@ -28,11 +28,12 @@ for index, row in data.iterrows():
     time.sleep(2)
     try:
         driver.find_element(By.ID, "login_button").click()
+        time.sleep(5)
     except:
         print("Login failed......")
         time.sleep(2)
     driver.get('https://sys.mynagad.com:20020/ui/system/#/merchant-management/list')
-    time.sleep(2)
+    time.sleep(5)
 
     enter_customer_number = driver.find_element(By.XPATH, '//*[@id="username"]')
     enter_customer_number.send_keys(row['Number'])
