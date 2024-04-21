@@ -74,9 +74,9 @@ for index, row in data.iterrows():
     Service_Number.send_keys(row["Service ID"])
     time.sleep(2)
     select_date_range = driver.find_element(by = By.XPATH, value = "/html/body/app-root/app-full-layout/div/div["
-                                                                  "2]/div/div/div/app-biller-service/section/div["
-                                                                  "2]/div/div/div/div/form/div/div[4]/div["
-                                                                  "1]/div/div/div")
+                                                                   "2]/div/div/div/app-biller-service/section/div["
+                                                                   "2]/div/div/div/div/form/div/div[4]/div["
+                                                                   "1]/div/div/div")
     select_date_range.click()
     time.sleep(2)
 
