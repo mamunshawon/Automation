@@ -77,6 +77,18 @@ for index, row in data.iterrows():
         else:
             checkbox.click()
             print("Auto-Settlement has been ticked.")
+            Enter_period = driver.find_element(by = By.XPATH, value = '//*[@id="settlementPolicy"]')
+            Enter_period.send_keys(row['Period'])
+            time.sleep(2)
+            Select_hour = driver.find_element(by = By.XPATH, value = '//*[@id="hour"]')
+            Select_hour.send_keys(row['hour'])
+            time.sleep(2)
+            select_minute = driver.find_element(by = By.XPATH, value = '//*[@id="minute"]')
+            select_minute.send_keys(row['minutes'])
+            time.sleep(2)
+            select_bank = driver.find_element(by = By.XPATH, value = '//*[@id="autoSettlementBankAccount"]')
+            select_bank.send_keys(row['Bank'])
+            time.sleep(2)
             # If the "Details" button was found, it's a customer number
             file_path = os.path.join(script_dir, "Merchant fix.xlsx")
             df = pd.read_excel(file_path)
