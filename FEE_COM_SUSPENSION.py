@@ -25,27 +25,42 @@ def login(driver, username, password):
 
 
 def process_row(driver, row):
-    driver.get('https://systest.mynagad.com:20020/ui/system/#/fee-commission-management/list/biller-merchant')
-    time.sleep(5)
-
     try:
+        # Navigate to the target page
+        driver.get('https://systest.mynagad.com:20020/ui/system/#/fee-commission-management/list/biller-merchant')
+        time.sleep(5)  # You can replace this with WebDriverWait if needed
+
         # Select payee and enter service number
         select_payee = driver.find_element(By.XPATH, '//*[@id="payee"]')
         select_payee.send_keys('UDDOKTA')
 
         enter_service_number = driver.find_element(By.XPATH, '//*[@id="billerServiceNumber"]')
         enter_service_number.clear()
-        service_number_value = str(row['SERVICE_NUMBER']).rstrip('.0')
+        service_number_value = str(row[ 'SERVICE_NUMBER' ]).rstrip('.0')
         enter_service_number.send_keys(service_number_value)
 
         # Click search
         search_button = driver.find_element(By.XPATH, "//button[contains(text(), 'Search')]")
         search_button.click()
 
-        # Click details
+        # Wait for details button to be clickable
         details_button = WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.XPATH, "//button[contains(text(), 'Details')]")))
+            EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'Details')]"))
+        )
+
+        # Click details button
         details_button.click()
+
+        # Add a short delay to allow the page to load fully
+        time.sleep(2)
+
+        # Check if data exists
+        no_data_found = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, "//div[contains(text(), 'No data available.')]"))
+        )
+        if no_data_found:
+            print("No fee commission found for service number:", service_number_value)
+            return False
 
     except NoSuchElementException:
         print("No fee commission found for service number:", service_number_value)
@@ -59,22 +74,28 @@ def process_row(driver, row):
 
 def expire_fee_com(driver):
     # Expire fee commissions
-    fee_types = ['Uddokta', 'Distributor', 'MD', 'TWTL', 'Bpo', 'Advance Commission']
+    fee_types = [ 'Uddokta', 'Distributor', 'MD', 'TWTL', 'Bpo', 'Advance Commission' ]
     for fee_type in fee_types:
         try:
-            WebDriverWait(driver, 10).until(
+            # Wait for the fee type element to be present
+            fee_type_element = WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.XPATH, f"//*[contains(text(), '{fee_type}')]")))
-            expire_button = WebDriverWait(driver, 10).until(
-                EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'Expire')]")))
+
+            # Scroll to the element to ensure it's visible
+            driver.execute_script("arguments[0].scrollIntoView();", fee_type_element)
+
+            # Click on the expire button for the fee type
+            expire_button = fee_type_element.find_element(By.XPATH, "../../..//button[contains(text(), 'Expire')]")
             expire_button.click()
+
+            # Confirm the expiration
             confirm_expire = WebDriverWait(driver, 10).until(
                 EC.element_to_be_clickable((By.XPATH, "/html/body/div[3]/div/div[3]/button[1]")))
             confirm_expire.click()
+
             print(f"{fee_type} APP COM Expired")
         except Exception as e:
             print(f"Error occurred while expiring {fee_type} APP COM:", str(e))
-            # Optionally, you can implement retry logic here
-            # For now, just continue to the next fee_type
             continue
 
 
@@ -93,12 +114,11 @@ def main():
         if process_row(driver, row):
             expire_fee_com(driver)
             # Update status message in Excel
-            data.at[index, 'Status_Message'] = "Expired"
-            data.to_excel(file_path, index=False, engine='openpyxl')
+            data.at[ index, 'Status_Message' ] = "Expired"
+            data.to_excel(file_path, index = False, engine = 'openpyxl')
 
     driver.quit()
 
 
 if __name__ == "__main__":
     main()
-
