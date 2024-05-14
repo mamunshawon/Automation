@@ -1,19 +1,25 @@
 import random
 import requests
 import time
+from datetime import datetime
 
 # Define your bot token and chat ID
 bot_token = '7060819285:AAFmCNBitSGjkUFCaznIZU1MGJcx4hog1fc'
 group_chat_id = '-4192540905'
+
+# Track hourly failure count
+hourly_failure_count = {}
+current_hour = None
 
 
 def send_telegram_message(bot_token, chat_id, message):
     url = f'https://api.telegram.org/bot{bot_token}/sendMessage'
     data = {
         'chat_id': chat_id,
-        'text': message
+        'text': message,
+        'parse_mode': 'Markdown'  # Enable Markdown mode
     }
-    response = requests.post(url, data=data)
+    response = requests.post(url, data = data)
     return response
 
 
@@ -36,7 +42,7 @@ def get_access_token():
     for attempt in range(retries):
         try:
             # Make request to first API
-            response = requests.post(first_api_url, data=payload, headers=headers)
+            response = requests.post(first_api_url, data = payload, headers = headers)
             response.raise_for_status()  # Raise an error for non-2xx responses
             access_token = response.json().get('access_token')
             return access_token
@@ -68,7 +74,7 @@ def call_second_api(access_token):
         try:
             # Make request to second API and measure response time
             start_time = time.time()
-            response = requests.get(second_api_url, headers=headers)
+            response = requests.get(second_api_url, headers = headers)
             response.raise_for_status()  # Raise an error for non-2xx responses
             end_time = time.time()
 
@@ -90,6 +96,12 @@ def call_second_api(access_token):
 
 
 def main():
+    global current_hour
+
+    # Get current hour
+    current_time = datetime.now()
+    current_hour = current_time.strftime("%Y-%m-%d %H")
+
     # Get access token
     access_token = get_access_token()
 
@@ -98,7 +110,9 @@ def main():
         second_api_response, response_time = call_second_api(access_token)
         if second_api_response == "success":
             # Send message to Telegram indicating that the portal is up and running
-            message = f"Tokenization API and get client API services status: Up and running! Response time :{response_time} seconds."
+            message = f"*Tokenization API and get client API services status:* UP! "\
+                      f"*Response time :*{response_time} seconds."
+            print(message)
             response = send_telegram_message(bot_token, group_chat_id, message)
             if response.status_code == 200:
                 print("Message sent successfully to Telegram group!")
@@ -107,6 +121,21 @@ def main():
                 print(response.text)
         else:
             print("Failed to get second API response.")
+
+            # Increment hourly failure count
+            if current_hour in hourly_failure_count:
+                hourly_failure_count[current_hour] += 1
+            else:
+                hourly_failure_count[ current_hour ] = 1
+
+            # If an hour has passed, print the hourly failure count
+            if current_hour != datetime.now().strftime("%Y-%m-%d %H"):
+                if hourly_failure_count.get(current_hour, 0) > 0:
+                    print(f"Hourly failure count for {current_hour}: {hourly_failure_count[ current_hour ]}")
+                else:
+                    print(f"No failures in the current hour: {current_hour}")
+                hourly_failure_count.clear()  # Reset hourly failure count
+
     else:
         print("Failed to obtain access token.")
 
