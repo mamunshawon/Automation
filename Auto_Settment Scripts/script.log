@@ -1,0 +1,1460 @@
+2024-07-05 15:28:02,019 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:28:06,403 - INFO - Auto-Settlement is already ticked.
+2024-07-05 15:28:42,605 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:28:47,028 - INFO - Auto-Settlement is already ticked.
+2024-07-05 15:29:22,624 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:29:40,136 - INFO - Merchant update done.
+2024-07-05 15:30:08,961 - INFO - Approved
+2024-07-05 15:30:48,971 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:31:06,073 - INFO - Merchant update done.
+2024-07-05 15:31:36,431 - INFO - Approved
+2024-07-05 15:32:17,261 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:32:34,283 - INFO - Merchant update done.
+2024-07-05 15:33:03,203 - INFO - Approved
+2024-07-05 15:33:43,808 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:33:48,166 - INFO - Auto-Settlement is already ticked.
+2024-07-05 15:34:28,028 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:34:32,390 - INFO - Auto-Settlement is already ticked.
+2024-07-05 15:35:08,479 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:35:25,579 - INFO - Merchant update done.
+2024-07-05 15:35:55,864 - INFO - Approved
+2024-07-05 15:36:34,695 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:36:52,613 - INFO - Merchant update done.
+2024-07-05 15:37:23,610 - INFO - Approved
+2024-07-05 15:38:03,884 - INFO - Not Active Merchant
+2024-07-05 15:38:38,752 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:38:56,489 - INFO - Merchant update done.
+2024-07-05 15:39:01,763 - ERROR - An error occurred at index 10 on attempt 1: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 15:39:30,174 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:39:34,567 - INFO - Auto-Settlement is already ticked.
+2024-07-05 15:40:19,279 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:40:36,643 - INFO - Merchant update done.
+2024-07-05 15:41:07,010 - INFO - Approved
+2024-07-05 15:41:46,638 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:42:04,405 - INFO - Merchant update done.
+2024-07-05 15:42:33,380 - INFO - Approved
+2024-07-05 15:43:12,075 - INFO - Not Active Merchant
+2024-07-05 15:43:46,290 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:44:03,942 - INFO - Merchant update done.
+2024-07-05 15:44:33,245 - INFO - Approved
+2024-07-05 15:45:12,622 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:45:31,061 - INFO - Merchant update done.
+2024-07-05 15:46:01,955 - INFO - Approved
+2024-07-05 15:46:17,769 - ERROR - An error occurred at index 16 on attempt 1: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 15:46:47,483 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:47:05,300 - INFO - Merchant update done.
+2024-07-05 15:47:11,095 - ERROR - An error occurred at index 16 on attempt 2: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 15:47:45,795 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:47:50,192 - INFO - Auto-Settlement is already ticked.
+2024-07-05 15:48:35,419 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:48:53,983 - INFO - Merchant update done.
+2024-07-05 15:49:23,815 - INFO - Approved
+2024-07-05 15:50:03,743 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:50:21,991 - INFO - Merchant update done.
+2024-07-05 15:50:53,176 - INFO - Approved
+2024-07-05 15:51:34,796 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:51:53,012 - INFO - Merchant update done.
+2024-07-05 15:52:25,372 - INFO - Approved
+2024-07-05 15:52:41,579 - ERROR - An error occurred at index 20 on attempt 1: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 15:52:46,583 - ERROR - An error occurred at index 20 on attempt 2: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 15:53:20,004 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:53:37,755 - INFO - Merchant update done.
+2024-07-05 15:54:08,595 - INFO - Approved
+2024-07-05 15:54:51,854 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:55:09,427 - INFO - Merchant update done.
+2024-07-05 15:55:42,632 - INFO - Approved
+2024-07-05 15:56:20,443 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:56:39,145 - INFO - Merchant update done.
+2024-07-05 15:57:10,543 - INFO - Approved
+2024-07-05 15:57:52,113 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:58:10,565 - INFO - Merchant update done.
+2024-07-05 15:58:39,967 - INFO - Approved
+2024-07-05 15:59:18,961 - INFO - Status is Active. Proceeding further.
+2024-07-05 15:59:36,589 - INFO - Merchant update done.
+2024-07-05 15:59:42,975 - ERROR - An error occurred at index 24 on attempt 1: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:00:17,099 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000012610D55970>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/454a8282a3abcf2fd208510b6036a30a
+2024-07-05 16:00:21,170 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000012610B66000>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/454a8282a3abcf2fd208510b6036a30a
+2024-07-05 16:00:25,240 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000012610D54230>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/454a8282a3abcf2fd208510b6036a30a
+2024-07-05 16:06:30,049 - ERROR - Error on attempt 1 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:06:41,277 - ERROR - Error on attempt 2 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:06:43,517 - ERROR - Error on attempt 3 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:06:43,517 - ERROR - An error occurred at index 0 on attempt 1: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:07:12,994 - INFO - Status is Active. Proceeding further.
+2024-07-05 16:07:30,648 - INFO - Merchant update done.
+2024-07-05 16:08:02,179 - INFO - Approved
+2024-07-05 16:08:14,698 - ERROR - Error on attempt 1 for until: Message: 
+
+2024-07-05 16:08:26,886 - ERROR - Error on attempt 2 for until: Message: 
+
+2024-07-05 16:08:39,045 - ERROR - Error on attempt 3 for until: Message: 
+
+2024-07-05 16:08:39,045 - INFO - No more approvals pending for mamunur.shawon@nagad.com.bd
+2024-07-05 16:09:20,511 - INFO - Status is Active. Proceeding further.
+2024-07-05 16:09:38,162 - INFO - Merchant update done.
+2024-07-05 16:09:43,814 - ERROR - Error on attempt 1 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:09:56,304 - ERROR - Error on attempt 2 for login: Message: 
+
+2024-07-05 16:09:58,461 - ERROR - Error on attempt 3 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:09:58,461 - ERROR - An error occurred at index 1 on attempt 1: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:10:28,787 - INFO - Status is Active. Proceeding further.
+2024-07-05 16:10:33,187 - INFO - Auto-Settlement is already ticked.
+2024-07-05 16:11:18,320 - INFO - Status is Active. Proceeding further.
+2024-07-05 16:11:36,484 - INFO - Merchant update done.
+2024-07-05 16:12:06,735 - INFO - Approved
+2024-07-05 16:12:08,894 - ERROR - An error occurred at index 2 on attempt 1: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF70621E55E]
+	(No symbol) [0x00007FF706220EB1]
+	(No symbol) [0x00007FF706220F50]
+	(No symbol) [0x00007FF7062621DB]
+	(No symbol) [0x00007FF70628D02A]
+	(No symbol) [0x00007FF70625BA76]
+	(No symbol) [0x00007FF70628D240]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:12:40,620 - INFO - Status is Active. Proceeding further.
+2024-07-05 16:12:44,997 - INFO - Auto-Settlement is already ticked.
+2024-07-05 16:13:29,422 - INFO - Status is Active. Proceeding further.
+2024-07-05 16:13:47,022 - INFO - Merchant update done.
+2024-07-05 16:13:52,486 - ERROR - Error on attempt 1 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:14:04,847 - ERROR - Error on attempt 2 for login: Message: 
+
+2024-07-05 16:14:07,014 - ERROR - Error on attempt 3 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:14:07,014 - ERROR - An error occurred at index 3 on attempt 1: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:14:38,204 - INFO - Status is Active. Proceeding further.
+2024-07-05 16:14:42,769 - INFO - Auto-Settlement is already ticked.
+2024-07-05 16:15:30,372 - INFO - Status is Active. Proceeding further.
+2024-07-05 16:15:48,785 - INFO - Merchant update done.
+2024-07-05 16:16:19,668 - INFO - Approved
+2024-07-05 16:16:21,809 - ERROR - An error occurred at index 4 on attempt 1: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF70621E55E]
+	(No symbol) [0x00007FF706220EB1]
+	(No symbol) [0x00007FF706220F50]
+	(No symbol) [0x00007FF7062621DB]
+	(No symbol) [0x00007FF70628D02A]
+	(No symbol) [0x00007FF70625BA76]
+	(No symbol) [0x00007FF70628D240]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:16:26,826 - ERROR - Error on attempt 1 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:16:39,325 - ERROR - Error on attempt 2 for login: Message: 
+
+2024-07-05 16:16:41,326 - ERROR - Error on attempt 3 for login: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF7061ED995]
+	(No symbol) [0x00007FF7062944D7]
+	(No symbol) [0x00007FF7062AC051]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:16:41,326 - ERROR - An error occurred at index 4 on attempt 2: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF7061ED995]
+	(No symbol) [0x00007FF7062944D7]
+	(No symbol) [0x00007FF7062AC051]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:21:10,148 - INFO - Status is Active. Proceeding further.
+2024-07-05 16:21:27,898 - INFO - Merchant update done.
+2024-07-05 16:21:57,291 - INFO - Approved
+2024-07-05 16:22:09,577 - ERROR - Error on attempt 1 for <lambda>: Message: 
+
+2024-07-05 16:22:21,726 - ERROR - Error on attempt 2 for <lambda>: Message: 
+
+2024-07-05 16:22:33,874 - ERROR - Error on attempt 3 for <lambda>: Message: 
+
+2024-07-05 16:22:33,874 - INFO - No more approvals pending for mamunur.shawon@nagad.com.bd
+2024-07-05 16:26:32,353 - ERROR - Error on attempt 1 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:26:34,881 - ERROR - Error on attempt 2 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:26:37,113 - ERROR - Error on attempt 3 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:26:37,113 - ERROR - An error occurred at index 0 on attempt 1: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:26:43,453 - ERROR - Error on attempt 1 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:27:10,205 - INFO - Status is Active. Proceeding further.
+2024-07-05 16:27:28,178 - INFO - Merchant update done.
+2024-07-05 16:27:35,396 - ERROR - Error on attempt 1 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:28:03,610 - INFO - Approved
+2024-07-05 16:28:16,130 - ERROR - Error on attempt 1 for until: Message: 
+
+2024-07-05 16:28:28,297 - ERROR - Error on attempt 2 for until: Message: 
+
+2024-07-05 16:28:40,483 - ERROR - Error on attempt 3 for until: Message: 
+
+2024-07-05 16:28:40,483 - INFO - No more approvals pending for mamunur.shawon@nagad.com.bd
+2024-07-05 16:29:24,821 - INFO - Status is Active. Proceeding further.
+2024-07-05 16:29:41,982 - INFO - Merchant update done.
+2024-07-05 16:29:49,040 - ERROR - Error on attempt 1 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:29:51,473 - ERROR - Error on attempt 2 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:29:53,728 - ERROR - Error on attempt 3 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:29:53,728 - ERROR - An error occurred at index 1 on attempt 1: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:30:02,937 - ERROR - Error on attempt 1 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:30:15,638 - ERROR - Error on attempt 2 for login: Message: 
+
+2024-07-05 16:30:17,839 - ERROR - Error on attempt 3 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:30:17,839 - ERROR - An error occurred at index 1 on attempt 2: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:30:29,328 - ERROR - Error on attempt 1 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706268434]
+	(No symbol) [0x00007FF70626853C]
+	(No symbol) [0x00007FF7062AF6A7]
+	(No symbol) [0x00007FF70628D06F]
+	(No symbol) [0x00007FF7062AC977]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:30:31,747 - ERROR - Error on attempt 2 for login: 'NoneType' object has no attribute 'send_keys'
+2024-07-05 16:30:33,749 - ERROR - Error on attempt 3 for login: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF7061ED995]
+	(No symbol) [0x00007FF7062944D7]
+	(No symbol) [0x00007FF7062AC051]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:30:33,749 - ERROR - An error occurred at index 1 on attempt 3: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF7061ED995]
+	(No symbol) [0x00007FF7062944D7]
+	(No symbol) [0x00007FF7062AC051]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:30:59,356 - ERROR - Error on attempt 1 for login: Message: disconnected: received Inspector.detached event
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF706201EBF]
+	(No symbol) [0x00007FF7062015E7]
+	(No symbol) [0x00007FF706200DA1]
+	(No symbol) [0x00007FF706200CE0]
+	(No symbol) [0x00007FF7061FFC9B]
+	(No symbol) [0x00007FF70622630D]
+	(No symbol) [0x00007FF7062AC852]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:31:01,360 - ERROR - Error on attempt 2 for login: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF7061FFA9C]
+	(No symbol) [0x00007FF7061FF960]
+	(No symbol) [0x00007FF70621AD51]
+	(No symbol) [0x00007FF7062AC079]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:31:03,363 - ERROR - Error on attempt 3 for login: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF7061FFA9C]
+	(No symbol) [0x00007FF7061FF960]
+	(No symbol) [0x00007FF70621AD51]
+	(No symbol) [0x00007FF7062AC079]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-05 16:31:03,363 - ERROR - An error occurred at index 2 on attempt 1: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7063DEEA2+31554]
+	(No symbol) [0x00007FF706357ED9]
+	(No symbol) [0x00007FF70621872A]
+	(No symbol) [0x00007FF7061FFA9C]
+	(No symbol) [0x00007FF7061FF960]
+	(No symbol) [0x00007FF70621AD51]
+	(No symbol) [0x00007FF7062AC079]
+	(No symbol) [0x00007FF70628CDD3]
+	(No symbol) [0x00007FF70625A33B]
+	(No symbol) [0x00007FF70625AED1]
+	GetHandleVerifier [0x00007FF7066E8B1D+3217341]
+	GetHandleVerifier [0x00007FF706735AE3+3532675]
+	GetHandleVerifier [0x00007FF70672B0E0+3489152]
+	GetHandleVerifier [0x00007FF70648E776+750614]
+	(No symbol) [0x00007FF70636375F]
+	(No symbol) [0x00007FF70635EB14]
+	(No symbol) [0x00007FF70635ECA2]
+	(No symbol) [0x00007FF70634E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 00:18:06,980 - INFO - Status is Active. Proceeding further.
+2024-07-07 00:18:11,253 - INFO - Auto-Settlement is already ticked.
+2024-07-07 00:18:47,101 - INFO - Status is Active. Proceeding further.
+2024-07-07 00:18:51,377 - INFO - Auto-Settlement is already ticked.
+2024-07-07 00:19:27,599 - INFO - Status is Active. Proceeding further.
+2024-07-07 00:19:44,961 - INFO - Merchant update done.
+2024-07-07 00:20:14,149 - INFO - Approved
+2024-07-07 00:20:16,246 - ERROR - An error occurred at index 2 on attempt 1: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF723B4EEA2+31554]
+	(No symbol) [0x00007FF723AC7ED9]
+	(No symbol) [0x00007FF72398872A]
+	(No symbol) [0x00007FF72398E55E]
+	(No symbol) [0x00007FF723990EB1]
+	(No symbol) [0x00007FF723990F50]
+	(No symbol) [0x00007FF7239D21DB]
+	(No symbol) [0x00007FF7239FD02A]
+	(No symbol) [0x00007FF7239CBA76]
+	(No symbol) [0x00007FF7239FD240]
+	(No symbol) [0x00007FF723A1C977]
+	(No symbol) [0x00007FF7239FCDD3]
+	(No symbol) [0x00007FF7239CA33B]
+	(No symbol) [0x00007FF7239CAED1]
+	GetHandleVerifier [0x00007FF723E58B1D+3217341]
+	GetHandleVerifier [0x00007FF723EA5AE3+3532675]
+	GetHandleVerifier [0x00007FF723E9B0E0+3489152]
+	GetHandleVerifier [0x00007FF723BFE776+750614]
+	(No symbol) [0x00007FF723AD375F]
+	(No symbol) [0x00007FF723ACEB14]
+	(No symbol) [0x00007FF723ACECA2]
+	(No symbol) [0x00007FF723ABE16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 00:20:45,713 - INFO - Status is Active. Proceeding further.
+2024-07-07 00:20:49,975 - INFO - Auto-Settlement is already ticked.
+2024-07-07 00:21:34,494 - INFO - Status is Active. Proceeding further.
+2024-07-07 00:21:52,095 - INFO - Merchant update done.
+2024-07-07 00:22:21,821 - INFO - Approved
+2024-07-07 00:22:23,915 - ERROR - An error occurred at index 3 on attempt 1: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF723B4EEA2+31554]
+	(No symbol) [0x00007FF723AC7ED9]
+	(No symbol) [0x00007FF72398872A]
+	(No symbol) [0x00007FF72398E55E]
+	(No symbol) [0x00007FF723990EB1]
+	(No symbol) [0x00007FF723990F50]
+	(No symbol) [0x00007FF7239D21DB]
+	(No symbol) [0x00007FF7239FD02A]
+	(No symbol) [0x00007FF7239CBA76]
+	(No symbol) [0x00007FF7239FD240]
+	(No symbol) [0x00007FF723A1C977]
+	(No symbol) [0x00007FF7239FCDD3]
+	(No symbol) [0x00007FF7239CA33B]
+	(No symbol) [0x00007FF7239CAED1]
+	GetHandleVerifier [0x00007FF723E58B1D+3217341]
+	GetHandleVerifier [0x00007FF723EA5AE3+3532675]
+	GetHandleVerifier [0x00007FF723E9B0E0+3489152]
+	GetHandleVerifier [0x00007FF723BFE776+750614]
+	(No symbol) [0x00007FF723AD375F]
+	(No symbol) [0x00007FF723ACEB14]
+	(No symbol) [0x00007FF723ACECA2]
+	(No symbol) [0x00007FF723ABE16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 00:22:53,256 - INFO - Status is Active. Proceeding further.
+2024-07-07 00:22:57,552 - INFO - Auto-Settlement is already ticked.
+2024-07-07 01:51:41,330 - ERROR - Error on attempt 1 for login: Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61965EEA2+31554]
+	(No symbol) [0x00007FF6195D7ED9]
+	(No symbol) [0x00007FF61949872A]
+	(No symbol) [0x00007FF619490782]
+	(No symbol) [0x00007FF619481294]
+	(No symbol) [0x00007FF619482B02]
+	(No symbol) [0x00007FF6194815C1]
+	(No symbol) [0x00007FF619480DA1]
+	(No symbol) [0x00007FF619480CE0]
+	(No symbol) [0x00007FF61947EC6D]
+	(No symbol) [0x00007FF61947F2AC]
+	(No symbol) [0x00007FF61949B501]
+	(No symbol) [0x00007FF61952D33E]
+	(No symbol) [0x00007FF61950D02A]
+	(No symbol) [0x00007FF61952C977]
+	(No symbol) [0x00007FF61950CDD3]
+	(No symbol) [0x00007FF6194DA33B]
+	(No symbol) [0x00007FF6194DAED1]
+	GetHandleVerifier [0x00007FF619968B1D+3217341]
+	GetHandleVerifier [0x00007FF6199B5AE3+3532675]
+	GetHandleVerifier [0x00007FF6199AB0E0+3489152]
+	GetHandleVerifier [0x00007FF61970E776+750614]
+	(No symbol) [0x00007FF6195E375F]
+	(No symbol) [0x00007FF6195DEB14]
+	(No symbol) [0x00007FF6195DECA2]
+	(No symbol) [0x00007FF6195CE16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 01:52:18,200 - ERROR - Error on attempt 2 for login: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome-headless-shell=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61965EEA2+31554]
+	(No symbol) [0x00007FF6195D7ED9]
+	(No symbol) [0x00007FF61949872A]
+	(No symbol) [0x00007FF6194E8434]
+	(No symbol) [0x00007FF6194E853C]
+	(No symbol) [0x00007FF61952F6A7]
+	(No symbol) [0x00007FF61950D06F]
+	(No symbol) [0x00007FF61952C977]
+	(No symbol) [0x00007FF61950CDD3]
+	(No symbol) [0x00007FF6194DA33B]
+	(No symbol) [0x00007FF6194DAED1]
+	GetHandleVerifier [0x00007FF619968B1D+3217341]
+	GetHandleVerifier [0x00007FF6199B5AE3+3532675]
+	GetHandleVerifier [0x00007FF6199AB0E0+3489152]
+	GetHandleVerifier [0x00007FF61970E776+750614]
+	(No symbol) [0x00007FF6195E375F]
+	(No symbol) [0x00007FF6195DEB14]
+	(No symbol) [0x00007FF6195DECA2]
+	(No symbol) [0x00007FF6195CE16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 01:52:47,358 - INFO - Status is Active. Proceeding further.
+2024-07-07 01:53:25,031 - INFO - Status is Active. Proceeding further.
+2024-07-07 01:54:03,006 - INFO - Status is Active. Proceeding further.
+2024-07-07 01:57:22,119 - INFO - Status is Active. Proceeding further.
+2024-07-07 01:58:40,491 - INFO - Status is Active. Proceeding further.
+2024-07-07 01:59:27,237 - ERROR - Error on attempt 1 for until: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF61965EEA2+31554]
+	(No symbol) [0x00007FF6195D7ED9]
+	(No symbol) [0x00007FF61949872A]
+	(No symbol) [0x00007FF6194E8434]
+	(No symbol) [0x00007FF6194E853C]
+	(No symbol) [0x00007FF61952F6A7]
+	(No symbol) [0x00007FF61950D06F]
+	(No symbol) [0x00007FF61952C977]
+	(No symbol) [0x00007FF61950CDD3]
+	(No symbol) [0x00007FF6194DA33B]
+	(No symbol) [0x00007FF6194DAED1]
+	GetHandleVerifier [0x00007FF619968B1D+3217341]
+	GetHandleVerifier [0x00007FF6199B5AE3+3532675]
+	GetHandleVerifier [0x00007FF6199AB0E0+3489152]
+	GetHandleVerifier [0x00007FF61970E776+750614]
+	(No symbol) [0x00007FF6195E375F]
+	(No symbol) [0x00007FF6195DEB14]
+	(No symbol) [0x00007FF6195DECA2]
+	(No symbol) [0x00007FF6195CE16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 01:59:30,301 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:00:07,239 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:00:43,949 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:01:19,647 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:01:56,170 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:02:32,141 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:03:07,967 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:03:43,658 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:04:19,493 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:04:57,214 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:05:33,513 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:06:44,810 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:07:22,197 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:07:57,878 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:08:35,028 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:09:11,482 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:10:21,821 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:10:58,153 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:11:35,433 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:12:11,227 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:12:47,814 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:13:24,912 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:14:00,844 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:14:37,873 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:15:14,434 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:15:50,255 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:16:26,908 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:17:03,944 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:17:40,989 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:18:17,638 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:18:54,855 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:19:31,800 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:20:07,949 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:20:44,552 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:21:21,071 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:21:57,457 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:22:34,971 - INFO - Status is Active. Proceeding further.
+2024-07-07 02:23:10,857 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:14:13 - INFO - Processing row 0: Number                                                 MC010329
+Period                                                    DAILY
+hour                                                          9
+minutes                                                      30
+Bank               401812100002409 | SHAHJALAL ISLAMI BANK LTD.
+Status_Message                                              NaN
+Approval_Status                                             NaN
+Name: 0, dtype: object
+2024-07-07 17:14:15 - ERROR - An error occurred at index 0: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59B8434]
+	(No symbol) [0x00007FF7C59B853C]
+	(No symbol) [0x00007FF7C59FF6A7]
+	(No symbol) [0x00007FF7C59DD06F]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 17:14:18 - INFO - Processing row 1: Number                                     MC048624
+Period                                        DAILY
+hour                                              9
+minutes                                          45
+Bank               4701004000384 | SONALI BANK LTD.
+Status_Message                                  NaN
+Approval_Status                                 NaN
+Name: 1, dtype: object
+2024-07-07 17:14:49 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:14:53 - INFO - Auto-Settlement is already ticked.
+2024-07-07 17:14:58 - INFO - Processing row 2: Number                                            MC048714
+Period                                               DAILY
+hour                                                     9
+minutes                                                 45
+Bank               263.120.0000508 | DUTCH-BANGLA BANK LTD
+Status_Message                                         NaN
+Approval_Status                                        NaN
+Name: 2, dtype: object
+2024-07-07 17:15:01 - ERROR - An error occurred at index 2: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59B8434]
+	(No symbol) [0x00007FF7C59B853C]
+	(No symbol) [0x00007FF7C59FF6A7]
+	(No symbol) [0x00007FF7C59DD06F]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 17:15:03 - INFO - Processing row 3: Number                                          MC048648
+Period                                             DAILY
+hour                                                   9
+minutes                                               45
+Bank               1621200000823 | DUTCH-BANGLA BANK LTD
+Status_Message                                       NaN
+Approval_Status                                      NaN
+Name: 3, dtype: object
+2024-07-07 17:15:08 - ERROR - An error occurred at index 3: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C593D995]
+	(No symbol) [0x00007FF7C59E44D7]
+	(No symbol) [0x00007FF7C59FC051]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+

@@ -1,0 +1,581 @@
+2024-07-07 16:31:43,698 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:32:01,011 - INFO - Merchant update done.
+2024-07-07 16:32:27,876 - INFO - Approved
+2024-07-07 16:32:40,519 - INFO - No more approvals pending for mamunur.shawon@nagad.com.bd
+2024-07-07 16:33:16,525 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:33:33,703 - INFO - Merchant update done.
+2024-07-07 16:34:01,756 - INFO - Approved
+2024-07-07 16:34:14,407 - INFO - No more approvals pending for mamunur.shawon@nagad.com.bd
+2024-07-07 16:34:51,062 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:35:07,849 - INFO - Merchant update done.
+2024-07-07 16:35:35,705 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-avy-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 13). Other element would receive the click: <div _ngcontent-avy-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:35:37,790 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-avy-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 13). Other element would receive the click: <div _ngcontent-avy-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:35:39,867 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-avy-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 13). Other element would receive the click: <div _ngcontent-avy-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:35:40,867 - ERROR - Failed to click element after retries.
+2024-07-07 16:35:40,867 - ERROR - Error processing row 2: No active exception to reraise
+2024-07-07 16:36:10,680 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:37:01,575 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:37:18,644 - INFO - Merchant update done.
+2024-07-07 16:37:47,814 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-trt-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 13). Other element would receive the click: <div _ngcontent-trt-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:37:49,891 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-trt-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 13). Other element would receive the click: <div _ngcontent-trt-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:37:51,984 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-trt-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 13). Other element would receive the click: <div _ngcontent-trt-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:37:52,985 - ERROR - Failed to click element after retries.
+2024-07-07 16:37:52,985 - ERROR - Error processing row 3: No active exception to reraise
+2024-07-07 16:38:23,096 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:38:44,264 - INFO - Merchant update done.
+2024-07-07 16:39:17,390 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-veg-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 13). Other element would receive the click: <div _ngcontent-veg-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:39:19,439 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-veg-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 13). Other element would receive the click: <div _ngcontent-veg-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:39:21,489 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-veg-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 13). Other element would receive the click: <div _ngcontent-veg-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:39:22,490 - ERROR - Failed to click element after retries.
+2024-07-07 16:39:22,490 - ERROR - Error processing row 3: No active exception to reraise
+2024-07-07 16:39:52,748 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:40:40,785 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:40:57,934 - INFO - Merchant update done.
+2024-07-07 16:41:24,728 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-igs-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 14). Other element would receive the click: <div _ngcontent-igs-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:41:26,817 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-igs-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 14). Other element would receive the click: <div _ngcontent-igs-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:41:28,891 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-igs-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 14). Other element would receive the click: <div _ngcontent-igs-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:41:29,893 - ERROR - Failed to click element after retries.
+2024-07-07 16:41:29,893 - ERROR - Error processing row 4: No active exception to reraise
+2024-07-07 16:41:59,074 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:42:45,243 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:43:02,534 - INFO - Merchant update done.
+2024-07-07 16:43:30,901 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-qxl-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 13). Other element would receive the click: <div _ngcontent-qxl-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:43:32,999 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-qxl-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 13). Other element would receive the click: <div _ngcontent-qxl-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:43:35,105 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-qxl-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 13). Other element would receive the click: <div _ngcontent-qxl-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:43:36,105 - ERROR - Failed to click element after retries.
+2024-07-07 16:43:36,105 - ERROR - Error processing row 5: No active exception to reraise
+2024-07-07 16:44:05,790 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:50:22,921 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:51:01,108 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:51:18,322 - INFO - Merchant update done.
+2024-07-07 16:51:45,429 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-fow-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 14). Other element would receive the click: <div _ngcontent-fow-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:51:47,512 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-fow-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 14). Other element would receive the click: <div _ngcontent-fow-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:51:49,607 - WARNING - Retry clicking element: Message: element click intercepted: Element <button _ngcontent-fow-c167="" class="btn btn-primary btn-raised btn-sm">...</button> is not clickable at point (604, 14). Other element would receive the click: <div _ngcontent-fow-c107="" class="container-fluid">...</div>
+  (Session info: chrome-headless-shell=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C5B2EEA2+31554]
+	(No symbol) [0x00007FF7C5AA7ED9]
+	(No symbol) [0x00007FF7C596872A]
+	(No symbol) [0x00007FF7C59C012E]
+	(No symbol) [0x00007FF7C59BDAF2]
+	(No symbol) [0x00007FF7C59BAF8B]
+	(No symbol) [0x00007FF7C59BA156]
+	(No symbol) [0x00007FF7C59AC151]
+	(No symbol) [0x00007FF7C59DD02A]
+	(No symbol) [0x00007FF7C59ABA76]
+	(No symbol) [0x00007FF7C59DD240]
+	(No symbol) [0x00007FF7C59FC977]
+	(No symbol) [0x00007FF7C59DCDD3]
+	(No symbol) [0x00007FF7C59AA33B]
+	(No symbol) [0x00007FF7C59AAED1]
+	GetHandleVerifier [0x00007FF7C5E38B1D+3217341]
+	GetHandleVerifier [0x00007FF7C5E85AE3+3532675]
+	GetHandleVerifier [0x00007FF7C5E7B0E0+3489152]
+	GetHandleVerifier [0x00007FF7C5BDE776+750614]
+	(No symbol) [0x00007FF7C5AB375F]
+	(No symbol) [0x00007FF7C5AAEB14]
+	(No symbol) [0x00007FF7C5AAECA2]
+	(No symbol) [0x00007FF7C5A9E16F]
+	BaseThreadInitThunk [0x00007FFA445A257D+29]
+	RtlUserThreadStart [0x00007FFA4628AF28+40]
+
+2024-07-07 16:51:50,608 - ERROR - Failed to click element after retries.
+2024-07-07 16:51:50,609 - ERROR - Error processing row 6: No active exception to reraise
+2024-07-07 16:52:19,787 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:57:26,323 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:58:04,444 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:58:43,297 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:59:21,442 - INFO - Status is Active. Proceeding further.
+2024-07-07 16:59:59,683 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:00:39,129 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:01:16,300 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:09:35,403 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:10:14,387 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:10:52,148 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:11:29,927 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:12:07,113 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:12:47,238 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:13:23,371 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:13:59,890 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:14:39,179 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:15:17,087 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:15:56,640 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:16:39,104 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:17:17,221 - INFO - Status is Active. Proceeding further.
+2024-07-07 17:17:56,086 - INFO - Status is Active. Proceeding further.
